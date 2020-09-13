@@ -34,11 +34,11 @@ goto lbl_doc
 
 :: "abre o arquivo"
 :lbl_std
-SET doc="Standard Routine.txt"
+SET doc="Standard_File.txt"
 goto d
 
 :lbl_blank
-SET doc="Blank Routine.txt"
+SET doc="Blank_FIle.txt"
 
 :d
 
